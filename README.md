@@ -6,3 +6,4 @@ A partir de uma lista de servidores ou endereços IP, executa "pings" periódico
 
 Também é possível executar comandos em caso de falha em um dos hosts (o nome do host pode ser passado como parâmetro).
 
+![Alt text](https://rodgf.github.io/NetServiceMonitor.png)
